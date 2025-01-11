@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-using-flexbox-for-centering-CfovVzV4td](https://your-solution-url.com)
 - Live Site URL: [https://pokerlo442.github.io/block_preview_card/](https://your-live-site-url.com)
 
 ## My process
